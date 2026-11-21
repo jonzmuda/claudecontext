@@ -1,0 +1,12 @@
+# Regenerate locally (see docs/RUNBOOK.md)
+env/
+data/
+
+# Upstream clone — reinstall; apply patches/ on top
+biosignal-auth-harmful/
+
+# OS / Python
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
