@@ -2,6 +2,8 @@
 
 Slim reproduction notes and patches for [USENIX Sec 2024 — Biosignal Authentication Considered Harmful](https://www.usenix.org/system/files/usenixsecurity24-krish.pdf), built on [Ethos-lab/biosignal-auth-harmful](https://github.com/Ethos-lab/biosignal-auth-harmful).
 
+**Start here:** [`docs/PROJECT_CONTEXT.md`](docs/PROJECT_CONTEXT.md) — what was requested, what was built, results, and what is omitted from this repo.
+
 This repo intentionally **does not** include the Python venv (`env/`, ~6 GB), BIDMC CSVs, or training checkpoints. See [`docs/RUNBOOK.md`](docs/RUNBOOK.md) to reproduce on a fresh machine.
 
 ## Layout
