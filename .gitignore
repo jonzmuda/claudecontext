@@ -2,8 +2,8 @@
 env/
 data/
 
-# Upstream clone — reinstall; apply patches/ on top
-biosignal-auth-harmful/
+# Upstream clone at repo root only — reinstall; apply patches/ on top
+/biosignal-auth-harmful/
 
 # OS / Python
 __pycache__/
